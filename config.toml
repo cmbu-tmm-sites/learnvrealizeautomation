@@ -1,0 +1,33 @@
+baseurl = "http://learnvrealizeautomation.github.io"
+languageCode = "en-us"
+title = "Learn vRealize Automation"
+theme = "hugo-cards"
+paginate = 6
+
+[params]
+    logo = "/images/vra-cloud.png"
+
+    # Source Code repository section
+    description = "VMware vRealize Automation"
+  builtBy = "CMBU Technical Marketing"
+  defaultImage = "gopher.jpg"
+
+  facebook = ""
+  quora = ""
+  twitter = "http://twitter.com/vrealizeauto"
+  github = "http://github.com/bul-ikana"
+  email = ""
+
+  fbLikeBox = ""
+  fbAppId = ""
+  fbPageUrl = ""
+  fbPageTitle = ""
+
+  analytics = ""
+  disqus = ""
+
+  custom_css = ["css/custom.css"]
+
+  [params.copyright]
+     name = "VMware"
+     link = "https://www.vmware.com/products/vrealize-automation.html"

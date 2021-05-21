@@ -1,0 +1,17 @@
+/*Add your custom css here. This will override any existinc thems css*/
+
+.header-image {
+    height: 40px;
+}
+
+.navbar {
+    background-color: #304250;
+    color: #fbfbfb
+}
+
+.navbar-default .navbar-brand {
+    font-family: Metropolis,"Avenir Next","Helvetica Neue",Arial,sans-serif;
+    font-weight: 400;
+    font-size: 1.5rem;
+    color: #fbfbfb
+}
