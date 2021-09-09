@@ -1,5 +1,6 @@
 # theme.toml template for a Hugo theme
 # See https://github.com/gohugoio/hugoThemes#themetoml for an example
+# Based on Hugo Cards by Hugo Aguirre
 
 name = "Hugo Cards"
 license = "MIT"
@@ -11,11 +12,12 @@ features = []
 min_version = "0.57.0"
 
 [author]
-  name = "Hugo Aguirre"
-  homepage = "https://bool.netlify.com"
+  name = "Sam McGeown"
+  homepage = "https://learnvrealizeautomation.github.io/"
+  repo = "https://github.com/cmbu-tmm-sites/learnvrealizeautomation"
 
 # If porting an existing theme
 [original]
-  name = "Webjeda-cards"
-  homepage = "https://webjeda.com/cards/"
-  repo = "https://github.com/sharu725/cards"
+  name = "Hugo Aguirre"
+  homepage = "https://bool.netlify.com"
+  repo = "https://github.com/bul-ikana/hugo-cards"

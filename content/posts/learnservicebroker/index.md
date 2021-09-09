@@ -1,6 +1,7 @@
 ---
 title:  "Learn Service Broker"
 img: "servicebroker-tile.png"
+weight: 40
 externalUrl: "https://learnservicebroker.github.io/"
 ---
 
