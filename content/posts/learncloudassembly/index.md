@@ -5,4 +5,4 @@ externalUrl: "https://learncloudassembly.github.io/"
 weight: 10
 ---
 
-Welcome to Learn Code Stream! This site is designed as a living technical reference focussed on providing in-depth information for the Code Stream developer - whether you’re new to Code Stream or an experienced developer.
+Welcome to Learn Cloud Assembly! This site is designed as a living technical reference focussed on providing in-depth information for the Cloud Assembly User - whether you’re new to Cloud Assembly or an expert at using cloud templates and extensibility.
