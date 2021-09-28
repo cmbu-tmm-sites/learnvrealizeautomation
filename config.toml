@@ -23,7 +23,7 @@ paginate = 6
   fbPageUrl = ""
   fbPageTitle = ""
 
-  analytics = ""
+  analytics = "G-3EX0W016RG"
   disqus = ""
 
   custom_css = ["css/custom.css"]
