@@ -1,7 +1,7 @@
 ---
 title:  "Learn Orchestrator"
 img: "orchestrator-tile.png"
-externalUrl: "https://learnvrealizeautomation.github.io/"
+externalUrl: "https://learnorchestrator.github.io/"
 weight: 100
 ---
 
