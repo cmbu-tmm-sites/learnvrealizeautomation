@@ -12,5 +12,5 @@
 {{ range .Site.Params.custom_css -}}
     <link rel="stylesheet" href="/{{ . }}">
 {{- end }}
-{{- partial "meta/google-analytics-async.html" . -}}
+{{- partial "analytics.html" . -}}
 </head>
