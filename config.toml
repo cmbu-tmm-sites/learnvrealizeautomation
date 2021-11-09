@@ -23,7 +23,8 @@ paginate = 6
   fbPageUrl = ""
   fbPageTitle = ""
 
-  analytics = "G-3EX0W016RG"
+  google_analytics_id = "G-3EX0W016RG" # Your Google Analytics tracking id
+
   disqus = ""
 
   custom_css = ["css/custom.css"]
@@ -31,3 +32,5 @@ paginate = 6
   [params.copyright]
      name = "VMware"
      link = "https://www.vmware.com/products/vrealize-automation.html"
+
+
